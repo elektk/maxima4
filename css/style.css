@@ -41,7 +41,6 @@ body {
 .small-square4 {
     background-image: url(../images/bg5.png);
     background-size: cover;
-    /* background-color: rgb(10, 60, 170); */
     margin: 5px 5px 5px 5px;
     height: 100px;
     width: 100px;
