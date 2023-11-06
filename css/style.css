@@ -1,0 +1,174 @@
+body {
+    height: 800px;
+    width: 1200px;
+    background: url(../images/back.jpg);
+}
+.rectangle1 {
+    background-image: url(../images/bg1.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.rectangle2 {
+    background-image: url(../images/bg6.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.small-square1 {
+    background-image: url(../images/bg2.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square2 {
+    background-image: url(../images/bg3.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square3 {
+    background-image: url(../images/bg4.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square4 {
+    background-image: url(../images/bg5.png);
+    background-size: cover;
+    /* background-color: rgb(10, 60, 170); */
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.two-ss {
+    display: flex;
+}
+.big-square1 {
+    background-image: url(../images/bg7.png);
+    background-size: cover;
+    margin: 10px 5px 5px 5px;
+    height: 212px;
+    width: 212px;
+}
+.column1 {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    margin: -50px 0 0 -100px;
+}
+.column2 {
+    position: absolute;
+    top: 20%;
+    left: 46%;
+    margin: -50px 0 0 -100px;
+}
+.column3 {
+    position: absolute;
+    top: 20%;
+    left: 62%;
+    margin: -50px 0 0 -100px;
+}
+.big-square2 {
+    background-image: url(../images/bg11.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 212px;
+    width: 212px;
+}
+.small-square5 {
+    background-image: url(../images/bg12.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square6 {
+    background-image: url(../images/bg13.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.rectangle3 {
+    background-image: url(../images/bg8.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.small-square7 {
+    background-image: url(../images/bg14.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square8 {
+    background-image: url(../images/bg15.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.rectangle4 {
+    background-image: url(../images/bg9.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.small-square9 {
+    background-image: url(../images/bg16.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square10 {
+    background-image: url(../images/bg18.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square11 {
+    background-image: url(../images/bg19.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.small-square12 {
+    background-image: url(../images/bg17.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 100px;
+}
+.rectangle5 {
+    background-image: url(../images/bg10.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.rectangle6 {
+    background-image: url(../images/bg20.png);
+    background-size: cover;
+    margin: 5px 5px 5px 5px;
+    height: 100px;
+    width: 212px;
+}
+.big-square3 {
+    background-image: url(../images/bg21.png);
+    background-size: cover;
+    margin: 10px 5px 10px 5px;
+    height: 212px;
+    width: 212px;
+}
